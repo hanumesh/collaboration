@@ -1,0 +1,36 @@
+.hidden-file {
+    visibility: hidden; 
+    position: absolute;
+    overflow: hidden; 
+    width: 0px; 
+    height:0px;
+    border:none;
+    margin:0; 
+    padding:0
+}
+
+
+.btn-primary.custom-btn {
+	background-color: #004f6bfa!important;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.modal-body{
+  height: 500px;
+  overflow-y: auto;
+}

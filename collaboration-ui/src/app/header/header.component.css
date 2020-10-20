@@ -1,0 +1,17 @@
+.nav-item{
+    padding:2px;
+    margin-left: 7px;
+  }
+
+  .bg-dark{
+    background-color: #004f6bfa!important;
+  }
+
+#Logoid{
+  height: 50px;
+  width: 135px;
+}
+
+/*.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255 255 255 / 96%);
+}*/
